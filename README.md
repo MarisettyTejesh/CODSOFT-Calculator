@@ -1,2 +1,2 @@
 # CODSOFT-Calculator
-# Calculator website using python
+Calculator website using python
